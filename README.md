@@ -1,5 +1,5 @@
  <div align=center>
-<img src="https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&duration=6000&pause=1500&color=73BAC0&center=true&vCenter=true&width=400&lines="Here+comes+puppy+doll;porcelain+jester+of+the+town"/>
+<img src="https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&duration=6000&pause=1500&color=73BAC0&center=true&vCenter=true&width=400&lines=Here+comes+puppy+doll;porcelain+jester+of+the+town"/>
  </br>
  </br>
  <img src="https://komarev.com/ghpvc/?username=heart-warmth&base=20000&label=♡&base=0&color=FF9002&style=plastic">
