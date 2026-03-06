@@ -10,9 +10,7 @@
  </td>
   </table>
     </br>
-   <img src="https://komarev.com/ghpvc/?username=heart-warmth&base=20000&label=♡&base=0&color=FF9002&style=plastic">
- </br>
-  </br>
+   <img src="https://komarev.com/ghpvc/?username=heart-warmth&base=20000&label=audience&base=0&color=FF9002&style=plastic">
  </br>
  </br>
 ♡ 　 <a href="https://rentry.co/lovefool">simple rentry</a> 　
@@ -30,9 +28,6 @@
 would also appreciate if "he" or other pronouns arent</br>
 used on me, my pronouns arent hard to use at all</br>
  </details>
- </br>
- </br>
- </br>
-still wip !
+
 </div>
 
